@@ -21,7 +21,7 @@ I work with tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML
 
 ## Stats
 
-![ah0r1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ah0r1&show_icons=true&theme=dark)]
+![ah0r1 GitHub stats](https://github-readme-stats.vercel.app/api?username=ah0r1&show_icons=true&theme=dark)
  
 ---
 <!--
