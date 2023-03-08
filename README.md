@@ -4,7 +4,7 @@
 ## About me
 Hello, I'm Juan Pablo, I'm a Software Engineer Student from Colombia 🧑‍💻, who is passionate about making the world a better place using Data Science and Artificial Intelligence. 
 
-I work with tech skills such as Pandas, Numpy, Matplotlib, Seaborn, also some ML/DL libraries as TensorFlow, Keras, Scikit-Learn, among others. I'm finishing a Data Scientist Course with Platzi.
+I work with tech skills such as Pandas, Numpy, Matplotlib, Seaborn, and ML/DL libraries like TensorFlow, Keras, Scikit-Learn, among others.
 
 
 ## Technologies that I use
