@@ -17,7 +17,7 @@ I work with tech skills such as Pandas, Numpy, Matplotlib, Seaborn, and ML/DL li
 ## Projects
 🔭 I’m currently working on: 
 
-- 🌱 Learning: ML models with Python,  English (B2+ level)
+- 🐍 Practicing Python,  English (B2+ level)
 
 ## Stats
 
